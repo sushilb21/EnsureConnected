@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs/EnsureConnected/v16/.suo
+/.vs/EnsureConnected/v16
+/.vs
+/EnsureConnection/Properties/PublishProfiles
+/EnsureConnection/obj
+/EnsureConnection/bin
